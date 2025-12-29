@@ -78,7 +78,7 @@ def aq_markup(_, chat_id):
                 text="• ᴄʜαɴɴᴇʟ 📢 •", url=f"https://t.me/aboutt_toxic"
             ),
             InlineKeyboardButton(
-                text="• ɢʀσυρ ✨ •", url=f"https://t.me/+vRWRO9arKIw1ZTM1"
+                text="• ɢʀσυρ ✨ •", url=f"https://t.me/+mr41Uo_5COViNGM1"
             ),
         ],
       ]
