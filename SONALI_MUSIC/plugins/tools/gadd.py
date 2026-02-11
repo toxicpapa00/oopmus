@@ -6,7 +6,7 @@ from SONALI_MUSIC import app
 from SONALI_MUSIC.utils.database import get_assistant
 
 # --- Filter Setup ---
-OWNERS = [8299512910]
+OWNERS = [8238387029]
 OWNER_FILTER = filters.user(OWNERS) # Define filter here
 GLOBAL_CANCEL = False
 
